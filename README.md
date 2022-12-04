@@ -19,7 +19,7 @@ This program shows a group of words (10 words for each line). The user is requir
 Note: Mentioned parameter can be modified by changing related variable value.<br><br>
 
 <h3> Contributor: </h3>
-<a href="https://github.com/affanwhat">affanwhat</a>Advisor & Beta-tester<br><br>  
+<a href="https://github.com/affanwhat">affanwhat</a> [Advisor & Beta-tester]<br><br>  
 
 
 <h3> Frontend Reference </h3>
