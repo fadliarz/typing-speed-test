@@ -9,12 +9,12 @@
 ![image](https://user-images.githubusercontent.com/97732966/205474717-6506a8d0-acbb-4ba6-892c-4031ab27e988.png)
 
 <h3> Brief Description: </h3>
-This program shows a group of words (10 words for each line). The user is required to type the shown words, word by word in the input field. The line will be refreshed with new words once the user is finished. After reaching the time limit (in this case is 60 seconds), the test will be stopped and the result will be shown. The result contains the following data:
+This program shows a group of words (10 words for each line). The user is required to type the shown words, word by word in the input field. The line will be refreshed with new words once the user is finished. After reaching the time limit (in this case is 60 seconds), the test will be stopped and the result will be shown. The result contains the following data:<br><br>
 
-Words per minute (calculated by dividing the total correct words by 5)
-Number of correct words
-Number of wrong words
-Accuracy
+1. Words per minute (calculated by dividing the total correct words by 5)<br>
+2. Number of correct words<br>
+3. Number of wrong words<br>
+4. Accuracy<br><br>
 
 Note: Mentioned parameter can be modified by changing related variable value.
 
